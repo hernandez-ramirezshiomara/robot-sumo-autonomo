@@ -45,5 +45,6 @@ Posibles mejoras
 - Migrar a ROS para simulación y control avanzado
 
 Multimedia
-[SUMO.zip](https://github.com/user-attachments/files/25059801/SUMO.zip)
+-[SUMO.zip](https://github.com/user-attachments/files/25059801/SUMO.zip)
+-
 
